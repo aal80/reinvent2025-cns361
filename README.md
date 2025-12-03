@@ -9,7 +9,7 @@ TBD
 [![](https://img.youtube.com/vi/TBD/0.jpg)](https://www.youtube.com/watch?v=TBD)
 
 ## Slides
-* [Session presentation slides](./riv2025-cns361.pdf?raw=true)
+* [Session presentation slides](./reinvent2025-cns361-platform.pdf?raw=true)
 
 ## Useful links
 * [[Blog] How CyberArk is streamlining serverless governance by codifying architectural blueprints](https://aws.amazon.com/blogs/architecture/how-cyberark-is-streamlining-serverless-governance-by-codifying-architectural-blueprints/)
