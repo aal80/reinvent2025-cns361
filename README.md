@@ -6,7 +6,7 @@ As serverless adoption grows, teams need consistent patterns for security, obser
 
 ## Video (click to watch)
 TBD
-[![](https://img.youtube.com/vi/TBD/0.jpg)](https://www.youtube.com/watch?v=TBD)
+[![](https://img.youtube.com/vi/GjWaLj4Y86U/0.jpg)](https://www.youtube.com/watch?v=GjWaLj4Y86U)
 
 ## Slides
 * [Session presentation slides](./reinvent2025-cns361-platform.pdf?raw=true)
