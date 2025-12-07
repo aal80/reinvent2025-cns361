@@ -5,7 +5,6 @@
 As serverless adoption grows, teams need consistent patterns for security, observability, governance, and CI/CD to avoid duplicating efforts and architectural inconsistencies.This session explores serverless platform engineering through a lens of architectural blueprints: a structured approach that promotes consistency while empowering teams to focus on core business value. Learn what constitutes a practical serverless blueprint, technically and culturally, and how Agentic AI assistants are transforming platform operations. Leave with actionable insights for scaling serverless adoption across your organization.
 
 ## Video (click to watch)
-TBD
 [![](https://img.youtube.com/vi/GjWaLj4Y86U/0.jpg)](https://www.youtube.com/watch?v=GjWaLj4Y86U)
 
 ## Slides
